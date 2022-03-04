@@ -1,0 +1,2 @@
+Jugador 1        Jugador 2        Ganador        Date           
+Renzo            Carlos           Carlos         2020-07-14 17:02:55                     

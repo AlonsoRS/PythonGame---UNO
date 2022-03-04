@@ -1,0 +1,14 @@
+SolicitudDenegada = "-1"
+DESCONECTAR = "000"
+AgregarUsuario = "001"
+PedirCartas = "002"
+RecivirCartas = "003"
+EnviarJugadores = "004"
+CartaEnMesa = "005"
+InidicarTurnoActual = "006"  #Decir al cliente que es su turno
+MandarCartaServidor = "007"  #Mandar la carta seleccionada actual
+PedirCarta = "008"
+RecivirCarta = "009"
+SaltarTurno = "010"
+MensajeJugadorGanador = "011"
+MensajeJugadorPerdedor = "012"
